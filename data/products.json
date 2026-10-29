@@ -1,0 +1,87 @@
+[
+  {
+    "code": "BRG001",
+    "name": "Beras Premium 5 kg",
+    "category": "Sembako",
+    "price": 72000,
+    "stock": 25
+  },
+  {
+    "code": "BRG002",
+    "name": "Minyak Goreng Pouch 2 L",
+    "category": "Sembako",
+    "price": 36000,
+    "stock": 30
+  },
+  {
+    "code": "BRG003",
+    "name": "Gula Pasir Putih 1 kg",
+    "category": "Sembako",
+    "price": 17500,
+    "stock": 40
+  },
+  {
+    "code": "BRG004",
+    "name": "Kopi Bubuk Hitam 165 g",
+    "category": "Minuman",
+    "price": 15000,
+    "stock": 8
+  },
+  {
+    "code": "BRG005",
+    "name": "Teh Celup Isi 25",
+    "category": "Minuman",
+    "price": 8500,
+    "stock": 22
+  },
+  {
+    "code": "BRG006",
+    "name": "Telur Ayam Negeri 1 kg",
+    "category": "Sembako",
+    "price": 28000,
+    "stock": 6
+  },
+  {
+    "code": "BRG007",
+    "name": "Mie Instan Goreng",
+    "category": "Makanan Instan",
+    "price": 3500,
+    "stock": 80
+  },
+  {
+    "code": "BRG008",
+    "name": "Susu Kental Manis 370 g",
+    "category": "Minuman",
+    "price": 12500,
+    "stock": 18
+  },
+  {
+    "code": "BRG009",
+    "name": "Tepung Terigu Serbaguna 1 kg",
+    "category": "Sembako",
+    "price": 13000,
+    "stock": 20
+  },
+  {
+    "code": "BRG010",
+    "name": "Sabun Cuci Piring 750 ml",
+    "category": "Kebutuhan Rumah Tangga",
+    "price": 16000,
+    "stock": 4
+  },
+  {
+    "code": "BRG011",
+    "name": "Deterjen Bubuk 800 g",
+    "category": "Kebutuhan Rumah Tangga",
+    "price": 21000,
+    "stock": 15
+  },
+  {
+    "code": "BRG012",
+    "name": "Kecap Manis Pouch 520 ml",
+    "category": "Bumbu Dapur",
+    "price": 22500,
+    "stock": 12
+  }
+]
+
